@@ -103,7 +103,7 @@ header .menu {
   color: #fff;
 }
 
-@media (min-width: 300px) {
+@media (min-width: 900px) {
   header .navigation {
     visibility: visible;
   }
